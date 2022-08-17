@@ -1,0 +1,9 @@
+    /*
+    A sehrinden ucmak isteyen yolcu B sehrine 500 km,C sehrine 700km, D sehrine 900 km mesafededir
+    Bilet Tarifesi
+    Km birim fiyati : 0,10$
+    yolcu 12 yasından kucukse toplam fiyat uzerinden %30 indirim
+    12 ve 24 yas arsı ıse %10
+    65 yasından buyukse %30
+    Bilet gidis donus alınırsa %20 indirim uygulayın
+    */
